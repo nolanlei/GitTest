@@ -26,6 +26,8 @@
         NSLog(@"3DTouch有效");
     } else {
         NSLog(@"3DTouch无效");
+        
+        NSLog(@"这是第一次修改");
     }
 }
 
